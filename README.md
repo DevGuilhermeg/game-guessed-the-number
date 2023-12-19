@@ -1,4 +1,4 @@
-## Guessed The Number - Jogo de Adivinhação
+Guessed The Number - Jogo de Adivinhação
 Este é um jogo simples de adivinhação em Python, onde o jogador tenta adivinhar um número aleatório. O jogo possui vários níveis, cada um com um intervalo de números diferentes. O jogador pode digitar "x" a qualquer momento para sair do jogo.
 
 Configurações

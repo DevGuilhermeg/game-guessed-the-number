@@ -6,19 +6,19 @@ O jogo possui algumas configurações básicas:
 
 python
 Copy code
-# Nível atual do jogador (inicializado em 0).
+## Nível atual do jogador (inicializado em 0).
 lvl = 0
 
-# Lista de intervalos de números para cada nível.
+## Lista de intervalos de números para cada nível.
 numeros = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
 
-# Valor máximo do intervalo para o nível atual.
+## Valor máximo do intervalo para o nível atual.
 esc = numeros[lvl]
 
-# Número aleatório a ser adivinhado.
+## Número aleatório a ser adivinhado.
 numero = randint(1, esc)
 
-# Variável de controle para o loop principal do jogo.
+## Variável de controle para o loop principal do jogo.
 loop = True
 Instruções
 O jogo exibe uma mensagem inicial e aguarda por 4 segundos antes de começar.
